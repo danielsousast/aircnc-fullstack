@@ -2,10 +2,6 @@
     <img alt="AirCNC" src="./github/logo.png" width="200px" />
 </h1>
 
-<h4 align="center">
-  AirCNC
-</h4>
-
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
 </p>
