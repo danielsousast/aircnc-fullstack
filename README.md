@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <img alt="AirCNC" src=".github/layout.png" width="100%">
+  <img alt="AirCNC" src=".github/layout.jpg" width="100%">
 </p>
 
 ## :rocket: Tecnologias
